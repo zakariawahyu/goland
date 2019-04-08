@@ -1,0 +1,16 @@
+========== Data User =========
+
+Member : 
+Password : 123
+Username = Zakaria
+Username = Tania
+Username = Ridho
+Username = User 
+
+Laundry : 
+Password :12345
+Username = Liquid
+Username = Seven
+Username = Kinclong
+Username = Bioclean
+Username = Waroenk
